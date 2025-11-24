@@ -1,0 +1,19 @@
+Copyright (c) 2025 Aria
+
+This dataset is provided for non-commercial use only.
+
+You MAY:
+- Use the dataset to train your own DiffSinger voicebanks or embeddings.
+- Release models or embeddings that YOU have trained using this dataset,
+  provided they do not contain or reproduce the original dataset files.
+
+You MAY NOT:
+- Use this dataset for commercial purposes.
+- Redistribute, share, or publish this dataset in any form.
+- Use this dataset for RVC, Diff-SVC, or any other non-DiffSinger model.
+- Release or distribute any embeddings, checkpoints, or features
+  created by the dataset owner.
+
+Sharing privately with friends for personal use is allowed.
+
+By using this dataset, you agree to comply with these terms.
