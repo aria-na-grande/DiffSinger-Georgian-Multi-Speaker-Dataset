@@ -1,20 +1,34 @@
 Copyright (c) 2025 Aria
 
-This dataset is provided for non-commercial use only.
+This dataset is provided for non-commercial use only. By using this dataset, you agree to comply with these terms.
 
-You MAY:
-- Use the dataset to train your own DiffSinger voicebanks or embeddings.
-- Release models or embeddings that YOU have trained using this dataset,
-  provided they do not contain or reproduce the original dataset files.
+Permitted Use
 
-You MAY NOT:
-- Use this dataset for commercial purposes.
-- Redistribute, share, or publish this dataset in any form.
-- Use this dataset for RVC, Diff-SVC, or any other non-DiffSinger model.
-- Release or distribute any embeddings, checkpoints, or features
-  created by the dataset owner.
+You may:
 
-Sharing privately with friends for personal use is allowed.
+Use the dataset to train your own DiffSinger voicebanks or embeddings.
 
-By using this dataset, you agree to comply with these terms.
-You MUST credit that you used this dataset, for example Credit: Georgian DiffSinger Datasets By Aria
+Release models or embeddings that you have trained using this dataset, as long as they do not include or reproduce the original dataset files.
+
+Share the dataset privately with friends for personal use.
+
+Prohibited Use
+
+You may not:
+
+Use this dataset for commercial purposes.
+
+Redistribute, share, or publish the dataset in any form.
+
+Use this dataset for RVC, Diff-SVC, or any other non-DiffSinger models.
+
+Release or distribute any original embeddings, checkpoints, or features provided by the dataset owner.
+
+Credit
+
+You must credit the dataset when using it. For example:
+Credit: Georgian DiffSinger Datasets By Aria
+
+Disclaimer
+
+This dataset is provided as-is for research and training purposes. Please use responsibly and in accordance with the terms above.
